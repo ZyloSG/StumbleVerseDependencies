@@ -1,5 +1,7 @@
-{
-  "Header": "StumbleVerse DEV",
-  "Message": "Welcome to <#f00>StumbleVerse DEV</color>!\nView changelog below:\n-Added news\n-Blah blah blah",
-  "TimeStamp": "3/16/2025"
-}
+[
+  {
+    "Header": "StumbleVerse DEV",
+    "Message": "Welcome to <#f00>StumbleVerse DEV</color>!\nView changelog below:\n-Added news\n-Blah blah blah",
+    "TimeStamp": "3/16/2025"
+  }
+]
